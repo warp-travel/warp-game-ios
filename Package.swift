@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "UnityFramework",
-            url: "https://aang-storage.s3.eu-west-3.amazonaws.com/UnityFramework_0_4_3.xcframework.zip",
-            checksum: "77423db4f632255e466396bdaa1a1e15c8100ac49f75024c5fa74d9c09a1291e")
+            url: "https://aang-storage.s3.eu-west-3.amazonaws.com/UnityFramework_0_4_2rc.xcframework.zip",
+            checksum: "cda2372e2335ac5a289f34150c26bef900182193232697501bbaeee61d053b65")
     ]
 )
